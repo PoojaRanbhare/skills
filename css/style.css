@@ -1,0 +1,132 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: sans-serif;
+}
+.MainPage{
+  background-color: #C8FFD4;
+  margin: 0 0 100px 0;
+}
+h1{
+  color: #66BFBF;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: italic;
+
+}
+h2{
+  color: #66BFBF;
+  font-size: 25px;
+}
+.top-cloud{
+  position: absolute;
+  right: 250px;
+  top: 0px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 250px;
+}
+.photo{
+  border-radius: 400px;
+border-top: 100px;
+border-bottom: 100px;
+width: 200px;
+height: 200px;
+}
+.hello{
+  font-size: 40px;
+  text-align: center;
+}
+.info{
+  color: #40514E;
+  line-height: 2;
+}
+hr{
+  width: 5%;
+  border-top-width: 0;
+  border-bottom-width: thick;
+  border-style: dotted solid;
+  color: grey;
+}
+.skill{
+  font-size: 40px;
+}
+
+.design{
+  color: #66BFBF;
+
+}
+.hot{
+  color: #66BFBF;
+  text-align: center;
+  position: absolute;
+  right: 750px;
+  top: 1550px;
+
+}
+.description{
+  line-height: 2;
+  text-align: justify;
+  position: absolute;
+  right: 300px;
+  left: 500px;
+}
+.skill-image{
+border-radius: 200px;
+border-top: 50px;
+border-bottom: 50px;
+width: 200px;
+height: 200px;
+position: absolute;
+left: 300px;
+float: left;
+}
+.chilli-image{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  top: 150px;
+  left:200px;
+
+}
+
+.chillides{
+  line-height: 2;
+  text-align: justify;
+  position: absolute;
+  right: 600px;
+}
+.get{
+  color: #66BFBF;
+  font-size: 40px;
+}
+.wings{
+  color: #66BFBF;
+}
+.love{
+  line-height: 2;
+}
+button{
+  height: 50px;
+  width: 150px;
+  border-radius: 100px;
+  background-color: #66BFBF;
+border-style: none;
+
+}
+.end{
+  height: 150px;
+  margin-bottom: 1px;
+  background-color: #66BFBF;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  text-align: center;
+}
+.abr{
+  color: #EAF6F6;
+  font-size: 15px;
+}
